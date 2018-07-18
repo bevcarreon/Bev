@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "name": "Macho temple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.621205,
+    "lng": 120.317499
   },
   {
     "id": 148,
