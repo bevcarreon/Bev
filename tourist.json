@@ -52,7 +52,7 @@
     "priceCurrency": "PHP",
     "lat": 16.614904,
     "lng": 120.280807
-  }
+  },
    {
     "id": 212,
     "name": "Filipino Chinese Friendship Pagoda",
@@ -61,7 +61,7 @@
     "priceCurrency": "PHP",
     "lat": 16.614216,
     "lng": 120.319012
-  }
+  },
   {
     "id": 213,
     "name": "Pugad",
@@ -70,7 +70,7 @@
     "priceCurrency": "PHP",
     "lat": 16.336675,
     "lng": 120.478815
-  }
+  },
   {
     "id": 214,
     "name": "Kultura Splash Resort",
@@ -79,7 +79,7 @@
     "priceCurrency": "PHP",
     "lat": 16.318881,
     "lng": 120.46874
-  }
+  },
   {
     "id": 215,
     "name": "Baluarte Watch Tower",
@@ -88,7 +88,7 @@
     "priceCurrency": "PHP",
     "lat": 16.856808,
     "lng": 120.372862
-  }
+  },
   {
     "id": 216,
     "name": "Tapuakan River Park",
@@ -97,7 +97,7 @@
     "priceCurrency": "PHP",
     "lat": 16.320971,
     "lng": 120.481214
-  }
+  },
   {
     "id": 217,
     "name": "Sebay Resort & Entertainment Center",
@@ -107,7 +107,7 @@
     "lat": 16.656986,
     "lng": 120.320874
 
-  }
+  },
   {
     "id": 218,
     "name": "Bev House",
@@ -116,7 +116,5 @@
     "priceCurrency": "PHP",
     "lat": 16.322051,
     "lng": 120.349432
-
-
-  }
+ }
 ]
