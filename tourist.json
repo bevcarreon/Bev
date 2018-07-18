@@ -65,10 +65,47 @@
   {
     "id": 213,
     "name": "Pugad",
-    "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
+    "imageUrl": "http://www.rjdexplorer.com/wp-content/uploads/2013/03/tumblr_inline_mkfk9jqG761qz4rgp.jpg",
     "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.336675,
     "lng": 120.478815
+  }
+  {
+    "id": 214,
+    "name": "Kultura Splash Resort",
+    "imageUrl": "http://images.asiatravel.com/Hotel/21267/facade01.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.318881,
+    "lng": 120.46874
+  }
+  {
+    "id": 215,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.856808,
+    "lng": 120.372862
+  }
+  {
+    "id": 216,
+    "name": "Tapuakan River Park",
+    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2014/02/La-Union-Tapuakan-River5.jpg",
+    "price": 120,
+    "priceCurrency": "PHP",
+    "lat": 16.320971,
+    "lng": 120.481214
+  }
+  {
+    "id": 217,
+    "name": "Sebay Resort & Entertainment Center",
+    "imageUrl": "http://2.bp.blogspot.com/-oWa9ayrpGcI/Vjg-UGfqMkI/AAAAAAAALpA/xLkNZFRwnrI/s1600/DSC06208.JPG",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.656986,
+    "lng": 120.320874
+
   }
 ]
