@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "Macho temple",
+    "name": "Macho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
     "price": 20,
     "priceCurrency": "PHP",
@@ -10,47 +10,65 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Tangadan Falls",
+    "imageUrl": "http://1.bp.blogspot.com/-mdOa_-XRusE/VrNRIoKJolI/AAAAAAAAF30/2uFJuCBymRI/s1600/C360_2016-02-01-16-41-23-565.jpg",
+    "price": 40,
+    "priceCurrency": "PHP",
+    "lat": 16.643578,
+    "lng": 120.448791
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "name": "Tuddingan Falls",
+    "imageUrl": "https://www.google.com.ph/search?biw=1517&bih=735&tbm=isch&sa=1&ei=TudOW43DOdnt-Qbm9YaYBA&q=Tuddingan+Falls+la+union&oq=Tuddingan+Falls+la+union&gs_l=img.3..0j0i7i30k1.116183.116183.0.117089.1.1.0.0.0.0.118.118.0j1.1.0....0...1c.1.64.img..0.1.117....0.vHLXvUTaoVo#imgrc=ZoYxZjOTLlhLKM:",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.575203,
+    "lng": 120.41743
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://uploadwikimedia..org/wikipedia/commons/thumb/0/0a/BasilicaMinoreofOurLadyofCharityjf_274.JPG/1200px-BasilicaMinoreofOurLadyofCharityjf_274.JPG",
+    "price": 60,
+    "priceCurrency": "PHP",
+    "lat": 16.324704,
+    "lng": 120.355081
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://www.google.com.ph/search?biw=1517&bih=735&tbm=isch&sa=1&ei=qOhOW-65KcTn-QbxvLnACA&q=christ+the+redeemer+statue+la+union&oq=Christ+the+Redeemer+Statue+la&gs_l=img.3.0.0j0i24k1l2.127219.129759.0.131971.4.4.0.0.0.0.120.444.0j4.4.0....0...1c.1.64.img..0.4.442...0i30k1j0i8i30k1.0.y48N_JK31uw#imgrc=PeSVfxTerT8QeM:",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.620427,
+    "lng": 120.319004
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Poro Point Lighthouse",
+    "imageUrl": "https://1.bp.blogspot.com/-SqgEMaW7jl4/WbfuU6zbA7I/AAAAAAAAILk/VadH0Qpv0BYOuhqO9wMtPgeeGoWJPpdKwCLcBGAs/s1600/Poro%2BPoint%2BLighthouse%2BSan%2BFernando%2BLa%2BUnion%2BRegion%2BI%2BPhilippines.webp",
+    "price": 80,
+    "priceCurrency": "PHP",
+    "lat": 16.614904,
+    "lng": 120.280807
+  }
+   {
+    "id": 212,
+    "name": "Filipino Chinese Friendship Pagoda",
+    "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.614216,
+    "lng": 120.319012
+  }
+  {
+    "id": 213,
+    "name": "Pugad",
+    "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "priceCurrency": "PHP",
+    "lat": 16.336675,
+    "lng": 120.478815
   }
 ]
