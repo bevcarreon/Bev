@@ -55,12 +55,12 @@
   },
    {
     "id": 212,
-    "name": "Filipino Chinese Friendship Pagoda",
+    "name": "Bulalakaw Falls",
     "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
-    "price": 30,
+    "price": 70,
     "priceCurrency": "PHP",
-    "lat": 16.614216,
-    "lng": 120.319012
+    "lat":  16.601772,
+    "lng": 120.482323
   },
   {
     "id": 213,
