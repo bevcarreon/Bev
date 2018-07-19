@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Macho Temple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
-    "price": 20,
+    "name": "Botanical Gardens",
+    "imageUrl": "http://4.bp.blogspot.com/-A5Yxey-JAQ4/Uhi0_3mrTLI/AAAAAAAABnw/BgWh_wweHug/s1600/xx.JPG",
+    "price": 40,
     "priceCurrency": "PHP",
-    "lat": 16.621205,
-    "lng": 120.317499
+    "lat": 16.587333,
+    "lng": 120.365906
   },
   {
     "id": 148,
