@@ -4,7 +4,7 @@
     "name": "Chocolate Hills",
     "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
     "distance":  833km,
-    "priceCurrency": "Distance",
+    "priceCurrency": "km",
     "lat":  9.829708 ,
     "lng": 124.139676
   },
