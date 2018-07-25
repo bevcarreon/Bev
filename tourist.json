@@ -1,21 +1,22 @@
 [
   {
     "id": 145,
-    "name": "Botanical Gardens",
-    "imageUrl": "http://4.bp.blogspot.com/-A5Yxey-JAQ4/Uhi0_3mrTLI/AAAAAAAABnw/BgWh_wweHug/s1600/xx.JPG",
+    "name": "Chocolate Hills",
+    "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
     "price": 20,
     "priceCurrency": "PHP",
-    "lat": 16.587333,
-    "lng": 120.365906
+    "lat":  9.829708 ,
+    "lng": 124.139676
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
-    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
+    "name": "Coron Island",
+    "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2014/03/Kayangan-Lake-on-Coron-Island-Things-to-do-in-Coron-Palawan-800x450.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.643578,
-    "lng": 120.448791
+    "lat": 11.928329,
+    "lng":120.239734
+
   },
   {
     "id": 201,
