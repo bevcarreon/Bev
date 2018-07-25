@@ -119,5 +119,23 @@
     "priceCurrency": "PHP",
     "lat": 9.848188,
     "lng": 126.045844
+ },
+ {
+    "id": 218,
+    "name": "Camiguin",
+    "imageUrl": "https://www.lakwatsero.com/wp-content/uploads/2011/08/Camiguin-00-1000x670.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat":9.173216,
+    "lng": 124.729877
+ },
+ {
+    "id": 218,
+    "name": "Batanes",
+    "imageUrl": "http://thehappytrip-5592.kxcdn.com/wp-content/uploads/2017/03/800px-Fundacion_Pacita_Batanes_Island_Philippines.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 20.448507,
+    "lng": 121.970813
  }
 ]
